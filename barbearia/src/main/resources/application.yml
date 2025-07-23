@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/barbeariaLogin?useSSL=false&serverTimezone=America/Sao_Paulo
     username: root
-    password: Hu93209147@
+    password: root
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
