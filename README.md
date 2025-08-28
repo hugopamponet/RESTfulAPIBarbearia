@@ -1,4 +1,4 @@
-# Sistema de Votação
+# Back-end para Barbearia
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/hugopamponet/RESTfulAPIBarbearia/blob/main/LICENSE)
 
 # Sobre o projeto
